@@ -1,0 +1,51 @@
+18-05-2022 12:47:22.972 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-05-2022 12:47:22.992 [Gauge] [INFO] Initializing specs cache with 1 specs
+18-05-2022 12:47:22.992 [Gauge] [DEBUG] Adding specs from C:\Users\Mehmet\Desktop\com.testgauge\specs\example.spec
+18-05-2022 12:47:22.992 [Gauge] [INFO] Initializing steps cache with 1 steps
+18-05-2022 12:47:22.992 [Gauge] [INFO] Gauge daemon initialized and listening on port: 10452
+18-05-2022 12:47:23.005 [Gauge] [DEBUG] Watching directory: C:\Users\Mehmet\Desktop\com.testgauge\specs
+18-05-2022 12:47:23.006 [Gauge] [DEBUG] Found 1 files
+18-05-2022 12:47:23.837 [Gauge] [DEBUG] Api Request Received: messageType:GetLanguagePluginLibPathRequest  messageId:5  libPathRequest:{language:"java"}
+18-05-2022 12:47:23.840 [Gauge] [DEBUG] Sending API response: messageType:ErrorResponse  messageId:2  error:{error:"Plugin 'java' not installed on following locations : [C:\\Users\\Mehmet\\AppData\\Roaming\\gauge\\plugins]"}
+18-05-2022 12:51:32.625 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-05-2022 12:51:32.626 [Gauge] [INFO] Initializing specs cache with 1 specs
+18-05-2022 12:51:32.626 [Gauge] [DEBUG] Adding specs from C:\Users\Mehmet\Desktop\com.testgauge\specs\example.spec
+18-05-2022 12:51:32.626 [Gauge] [INFO] Initializing steps cache with 1 steps
+18-05-2022 12:51:32.626 [Gauge] [INFO] Gauge daemon initialized and listening on port: 13914
+18-05-2022 12:51:32.627 [Gauge] [DEBUG] Watching directory: C:\Users\Mehmet\Desktop\com.testgauge\specs
+18-05-2022 12:51:32.627 [Gauge] [DEBUG] Found 1 files
+18-05-2022 13:11:25.868 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Open the Gauge homepage"}
+18-05-2022 13:11:25.870 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Open the Gauge homepage"  parameterizedStepValue:"Open the Gauge homepage"}}
+18-05-2022 13:11:26.164 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Go to Gauge Get Started Page"}
+18-05-2022 13:11:26.164 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Go to Gauge Get Started Page"  parameterizedStepValue:"Go to Gauge Get Started Page"}}
+18-05-2022 13:11:26.248 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{stepText:"Ensure installation instructions are available"}
+18-05-2022 13:11:26.249 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{stepValue:"Ensure installation instructions are available"  parameterizedStepValue:"Ensure installation instructions are available"}}
+18-05-2022 13:11:39.752 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Mehmet\Desktop\com.testgauge\specs\example.spec
+18-05-2022 13:11:39.755 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Mehmet\Desktop\com.testgauge\specs\example.spec
+18-05-2022 13:11:43.201 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Mehmet\Desktop\com.testgauge\specs\example.spec
+18-05-2022 13:11:43.213 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Mehmet\Desktop\com.testgauge\specs\example.spec
+18-05-2022 13:11:56.097 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Mehmet\Desktop\com.testgauge\specs\example.spec
+18-05-2022 13:11:56.109 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Mehmet\Desktop\com.testgauge\specs\example.spec
+18-05-2022 13:11:59.437 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+18-05-2022 13:11:59.437 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+18-05-2022 13:11:59.448 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+18-05-2022 13:11:59.448 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+18-05-2022 13:12:00.766 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+18-05-2022 13:12:00.767 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+18-05-2022 13:12:00.767 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+18-05-2022 13:12:00.767 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+18-05-2022 13:12:02.451 [Gauge] [DEBUG] Api Request Received: messageType:GetStepValueRequest  messageId:4  stepValueRequest:{}
+18-05-2022 13:12:02.452 [Gauge] [DEBUG] Sending API response: messageType:GetStepValueResponse  messageId:4  stepValueResponse:{stepValue:{}}
+18-05-2022 13:12:24.127 [Gauge] [DEBUG] Api Request Received: messageType:GetAllStepsRequest  messageId:2  allStepsRequest:{}
+18-05-2022 13:12:24.128 [Gauge] [DEBUG] Sending API response: messageType:GetAllStepResponse  messageId:2  allStepsResponse:{}
+18-05-2022 13:12:24.128 [Gauge] [DEBUG] Api Request Received: messageType:GetAllConceptsRequest  messageId:6  allConceptsRequest:{}
+18-05-2022 13:12:24.128 [Gauge] [DEBUG] Sending API response: messageType:GetAllConceptsResponse  messageId:6  allConceptsResponse:{}
+18-05-2022 13:13:56.016 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Mehmet\Desktop\com.testgauge\specs\example.spec
+18-05-2022 13:13:56.059 [Gauge] [DEBUG] Spec file added / modified: C:\Users\Mehmet\Desktop\com.testgauge\specs\example.spec
+18-05-2022 13:15:45.422 [Gauge] [INFO] Initializing concepts cache with 0 concepts
+18-05-2022 13:15:45.423 [Gauge] [INFO] Initializing specs cache with 1 specs
+18-05-2022 13:15:45.423 [Gauge] [DEBUG] Adding specs from C:\Users\Mehmet\Desktop\com.testgauge\specs\example.spec
+18-05-2022 13:15:45.423 [Gauge] [INFO] Initializing steps cache with 1 steps
+18-05-2022 13:15:45.423 [Gauge] [INFO] Gauge daemon initialized and listening on port: 14254
+18-05-2022 13:15:45.424 [Gauge] [DEBUG] Watching directory: C:\Users\Mehmet\Desktop\com.testgauge\specs
+18-05-2022 13:15:45.425 [Gauge] [DEBUG] Found 1 files
